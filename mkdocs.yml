@@ -137,7 +137,8 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UCkoGLA5DUdXO4Qfo_9RDjIA/playlists
   analytics:
-    provider: custom
+    provider: google
+    property: G-VYGQ8GTH45
 
 markdown_extensions:
   - toc:
